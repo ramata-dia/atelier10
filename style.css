@@ -1,0 +1,35 @@
+body {
+    color:rgb(194, 98, 98);
+    background-color:white;
+    box-sizing: content-box;
+    margin-left:auto;
+    height:auto;
+    background-image:url(images/image_fond.jpg);
+      }
+
+h1 {
+
+    color: blue;
+    text-align: center;
+    }
+form {
+    background-color: #e9eff3;
+    padding:40px;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto ;
+    
+    }
+
+label {
+     /*margin-top:20px;*/ 
+     display:block;
+     color:#4820d8;
+        }
+input {
+    background-color: #19948e;
+    border: none;
+    color: white; 
+    padding:  5px 25px      
+            }
+      
